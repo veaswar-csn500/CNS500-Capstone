@@ -66,3 +66,13 @@
 | ID | 126507201 |
 | Section | CSN 500 NBB | 
 
+
+## IIS Installation
+
+- In WS-XX, after deploying VM, open **Server Manager**.
+- Click on **Add Roles and Features**.
+- Click next till we get a window to select the roles to install.
+- Select **IIS** from that and click next.
+- A windows will pop up asking for features to be installed. Click **Add features**.
+- And continue to click on Next till the installation starts
+- Wait for the installation to be over and IIS role should be installed in the WS-XX. 
