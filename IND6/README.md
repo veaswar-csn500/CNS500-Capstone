@@ -57,3 +57,12 @@
 
 - az network nic update --name LR-XX --resource-group Student-RG-XXXXXX --ip-forwarding true
 ```
+
+## Sample Table
+
+| Student Details | - |
+| - | - |
+| Name | Vishal Easwar |
+| ID | 126507201 |
+| Section | CSN 500 NBB | 
+
