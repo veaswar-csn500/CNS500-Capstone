@@ -42,3 +42,18 @@
 - [Deploy VMs](VMDeploy.bash)
 
 ## CLI command to set static IP
+```bash
+- az network nic ip-config update --name LR-XX --resource-group Student-RG-XXXXXX --nic-name LR-XX --private-ip-address 192.168.XX.37
+
+- az network nic ip-config update --name LR-XX --resource-group Student-RG-XXXXXX --nic-name LR-XX --private-ip-address 192.168.XX.36
+
+- az network nic ip-config update --name WS-XX --resource-group Student-RG-XXXXXX --nic-name WS-XX --private-ip-address 172.17.XX.50
+
+- az network nic ip-config update --name WS-XX --resource-group Student-RG-XXXXXX --nic-name WS-XX --private-ip-address 172.17.XX.37
+
+- az network nic ip-config update --name LS-XX --resource-group Student-RG-XXXXXX --nic-name LS-XX --private-ip-address 172.17.XX.51
+
+- az network nic ip-config update --name LS-XX --resource-group Student-RG-XXXXXX --nic-name LS-XX --private-ip-address 172.17.XX.36
+
+- az network nic update --name LR-XX --resource-group Student-RG-XXXXXX --ip-forwarding true
+```
