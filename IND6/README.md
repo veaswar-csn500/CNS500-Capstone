@@ -80,5 +80,5 @@
 ## My_Diagram
 
 <img src="./IND6image.png"
-     alt="cp3image"
+     alt="ind6image"
      style="float: center; margin-right: 10px;" />
