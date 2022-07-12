@@ -76,3 +76,8 @@
 - A windows will pop up asking for features to be installed. Click **Add features**.
 - And continue to click on Next till the installation starts
 - Wait for the installation to be over and IIS role should be installed in the WS-XX. 
+
+## My_Diagram
+<img src="../IND6image.png"
+     alt="cp3image"
+     style="float: center; margin-right: 10px;" />
