@@ -3,6 +3,22 @@
 
 ## Table of Contents
 
+1 - [Project Summary](#project-summary)
+
+2 - [Initial Configuration](#initial-configuration)
+
+3 - [Template .json files](#template-json-files)
+
+4 - [Bash script to deploy VM](#bash-script-to-deploy-the-vms)
+
+5 - [CLI commands to set static IP](#cli-command-to-set-static-ip) 
+
+6 - [Table](#sample-table)
+
+7 - [IIS Installation](#iis-installation)
+
+8 - [Diagram](#mydiagram)
+
 
 ## Project Summary
 
@@ -22,9 +38,9 @@
 
 - Make sure to deploy all VMs and to enable iptables on LR-XX and LS-XX
 
-- Make sure the Vms get the respective static IPs. (LS-XX : 172.17.XX.36, WS-XX : 172.17.XX.37, LR-XX : 192.168.XX.36)
+- Make sure the VMs get the respective static IPs. (LS-XX : 172.17.XX.36, WS-XX : 172.17.XX.37, LR-XX : 192.168.XX.36)
 
-- DNS to be configured in WS-XX and make sure the LS-XX,LR-XX and WC-XX.
+- DNS to be configured in WS-XX and make sure the LS-XX,LR-XX and WC-XX gets the DNS name.
 
 
 ## Template .JSON Files
