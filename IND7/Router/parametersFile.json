@@ -1,0 +1,62 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "canadacentral"
+        },
+        "extendedLocation": {
+            "value": {}
+        },
+        "virtualNetworkName": {
+            "value": "Router-48"
+        },
+        "resourceGroup": {
+            "value": "Student-RG-634439"
+        },
+        "addressSpaces": {
+            "value": [
+                "192.168.48.0/24"
+            ]
+        },
+        "ipv6Enabled": {
+            "value": false
+        },
+        "subnetCount": {
+            "value": 4
+        },
+        "subnet0_name": {
+            "value": "SN1"
+        },
+        "subnet0_addressRange": {
+            "value": "192.168.48.32/27"
+        },
+        "subnet1_name": {
+            "value": "SN2"
+        },
+        "subnet1_addressRange": {
+            "value": "192.168.48.64/27"
+        },
+        "subnet2_name": {
+            "value": "SN3"
+        },
+        "subnet2_addressRange": {
+            "value": "192.168.48.96/27"
+        },
+        "subnet3_name": {
+            "value": "SN4"
+        },
+        "subnet3_addressRange": {
+            "value": "192.168.48.128/27"
+        },
+        "ddosProtectionPlanEnabled": {
+            "value": false
+        },
+        "firewallEnabled": {
+            "value": false
+        },
+        "bastionEnabled": {
+            "value": false
+        }
+    }
+}
