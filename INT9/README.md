@@ -16,3 +16,8 @@ Author: veaswar-csn500 <veaswar@myseneca.ca>
 Date:   Fri Jul 29 12:15:24 2022 -0400
 
     updates README.md from main branch
+commit daf9a6055253bc821ff2dfe06cc34a72ec16c946
+Author: veaswar-csn500 <veaswar@myseneca.ca>
+Date:   Fri Jul 29 12:21:33 2022 -0400
+
+    updates README.md from feat-conflict branch
