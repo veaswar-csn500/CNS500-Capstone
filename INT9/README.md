@@ -19,3 +19,7 @@ Date:   Fri Jul 29 13:05:50 2022 -0400
 
     Merge branch 'feat-conflict' of https://github.com/veaswar-csn500/CSN500-Capstone into feat-conflict
 
+---
+## Reflection
+
+To remove the conflict between the merged files, we can go to the github portal and create Pull request in the main branch and then do the merge request from the main branch.
