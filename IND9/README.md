@@ -1,4 +1,4 @@
-rganizing information with tables
+Organizing information with tables
 
 You can build tables to organize information in comments, issues, pull requests, and wikis.
 
@@ -9,4 +9,5 @@ You can create tables with pipes | and hyphens -. Hyphens are used to create eac
 | ------------- | ------------- |
 | Con tent Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 
