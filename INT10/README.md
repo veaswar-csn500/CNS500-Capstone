@@ -24,11 +24,11 @@ General / Overall Rating - 8.5 /10
 ---
 If you could give five suggestions to improve this course, what would they be?
  
- -   1. Github could have been introduced at the starting of the semester.
- -   2. Time of submission of interactive and independent exercises could be made to midnight instead of early morning of the due date.
- -   3. The instructions in the checkpoint submissions could me more detailed/precise.
+ -    Github could have been introduced at the starting of the semester.
+ -    Time of submission of interactive and independent exercises could be made to midnight instead of early morning of the due date.
+ -    The instructions in the checkpoint submissions could me more detailed/precise.
 ---
 If you could modify course content, what would you remove and what would you add?
 
--    1. I would add the introduction of github to the beginning of the course.
+-     I would add the introduction of github to the beginning of the course.
 ---
